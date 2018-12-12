@@ -1,0 +1,10 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "mysql homework assignment",
+  "main": "bamazon_customer.js",
+  "dependencies": {
+    "inquirer": "^3.0.1",
+    "mysql": "^2.16.0"
+  }
+}
